@@ -38,7 +38,7 @@ A apostila inclui um projeto prático com o famoso **Titanic Dataset**, utilizan
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/apostila-crispdm-ml.git
+   git clone https://github.com/PadawanXXVI/apostila-crispdm-ml.git
    cd apostila-crispdm-ml
    ```
 
