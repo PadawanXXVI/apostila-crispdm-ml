@@ -28,7 +28,7 @@ A apostila inclui um projeto prático com o famoso **Titanic Dataset**, utilizan
 ## 🌐 Visualização Online
 
 > Acesse a versão web desta apostila via **GitHub Pages**:  
-> 📎 [https://SEU_USUARIO.github.io/apostila-crispdm-ml/](https://SEU_USUARIO.github.io/apostila-crispdm-ml/)
+> 📎 [https://padawanxxvi.github.io/apostila-crispdm-ml/](https://padawanxxvi.github.io/apostila-crispdm-ml/)
 
 (📌 Substitua o link acima pelo seu quando o `index.html` estiver pronto e publicado)
 
